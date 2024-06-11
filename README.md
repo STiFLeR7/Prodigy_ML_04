@@ -1,4 +1,4 @@
-#Hand Gesture Recognition Model
+# Hand Gesture Recognition Model
 
 ## Overview
 This repository contains the code and resources to develop a hand gesture recognition model. The goal is to accurately identify and classify different hand gestures from image or video data, facilitating intuitive human-computer interaction and gesture-based control systems. Whether it's controlling devices with a wave of your hand or enabling sign language translation, this project aims to push the boundaries of gesture recognition technology.
